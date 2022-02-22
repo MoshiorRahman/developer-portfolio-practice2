@@ -1,0 +1,14 @@
+body{
+    font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Redressed', cursive;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(orange,salmon);
+    border-radius: 8px;
+    
+}
