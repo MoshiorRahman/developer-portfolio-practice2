@@ -48,3 +48,29 @@ h1{
 .dream-big p{
     margin-bottom: 20px;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+.flexible-container{
+    display: flex;
+}
+.experience-item{
+    padding: 3%;
+    box-shadow: 10px 10px 40px gray;
+}
+#experience-full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,salmon);
+    border-image-slice: 1;
+}
+#experience-baby-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,skyblue);
+    border-image-slice: 1;
+}
+.footer p{
+    text-align: center;
+    justify-content: end;
+}
